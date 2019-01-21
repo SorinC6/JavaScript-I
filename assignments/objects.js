@@ -11,10 +11,10 @@
 
 // Example format of an intern object: 1,examples@you.edu,Example,F
 const example = {
-  "id": 0,
-  "name": "Example",
-  "email": "examples@you.edu",
-  "gender": "F"
+    "id": 0,
+    "name": "Example",
+    "email": "examples@you.edu",
+    "gender": "F"
 }
 
 // Write your intern objects here:
@@ -57,13 +57,23 @@ const internAntonietta = {
 
 // Mitzi's name
 
+console.log(internMitzi.first_name);
+
 // Kennan's ID
+
+console.log(internKennan.id);
 
 // Keven's email
 
+console.log(internKeven.email);
+
 // Gannie's name
 
+console.log(internGannie.first_name);
+
 // Antonietta's Gender
+
+console.log(internAntonietta.gender);
 
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
