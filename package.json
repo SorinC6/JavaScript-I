@@ -1,0 +1,20 @@
+{
+  "name": "JavaScript-I",
+  "version": "1.0.0",
+  "description": "* The point of these assignments is to take your knowledge of JavaScript and start putting into practice the principles learned throughout JavaScript I.",
+  "main": "t.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorinC6/JavaScript-I.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SorinC6/JavaScript-I/issues"
+  },
+  "homepage": "https://github.com/SorinC6/JavaScript-I#readme"
+}
